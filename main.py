@@ -12,8 +12,6 @@
 
 # Required packages in requirements.txt
 
-# Sample Image: input.jpg
-
 ##########################################
 
 
